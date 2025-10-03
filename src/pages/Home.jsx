@@ -1,9 +1,13 @@
-import React from 'react';
-import InstagramGallery from '../components/InstagramGallery';
-import Hero from '../components/Hero.jsx';
+import React from "react";
+import Hero from "../components/Hero.jsx";
+import AsSeen from "../components/Asseen.jsx";
+
 function Home() {
   return (
-      <Hero/>
+    <>
+      <Hero />
+      <AsSeen />
+    </>
   );
 }
 
