@@ -37,7 +37,7 @@ const Navbar = () => {
           {/* Center Logo */}
           <div className="flex-1 flex justify-center">
             <h1 className="text-white text-lg font-light tracking-[0.3em] uppercase">
-              Abhay
+              The Perfect Frame
             </h1>
           </div>
 
